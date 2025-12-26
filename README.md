@@ -13,6 +13,8 @@ Extract vocals and instrumentals from any audio file using advanced audio proces
 - 🎵 **Multiple Formats** - MP3, WAV, FLAC, and more
 - 🎨 **Modern Dark UI** - Beautiful, intuitive interface
 - ⚡ **Batch Processing** - Split multiple files at once
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/342a3f7a-5ab5-4948-a764-7e6987ed9656" />
+
 - 🖥️ **Cross-Platform** - Windows, macOS, Linux
 
 ## Installation
