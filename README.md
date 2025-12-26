@@ -8,6 +8,8 @@ Extract vocals and instrumentals from any audio file using advanced audio proces
 
 - 🎤 **Vocal/Instrumental Separation** - Advanced audio processing for clean splits
 - 📺 **YouTube Integration** - Download and split music from YouTube URLs
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/c61da2a4-d30e-45e6-9065-f0db74a55363" />
+
 - 🎵 **Multiple Formats** - MP3, WAV, FLAC, and more
 - 🎨 **Modern Dark UI** - Beautiful, intuitive interface
 - ⚡ **Batch Processing** - Split multiple files at once
